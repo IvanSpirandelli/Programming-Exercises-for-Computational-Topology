@@ -1,0 +1,4 @@
+n = 3
+edges = [(1,2), (2,3)]
+initial_components = [1,2,3]
+number_of_connected_components = 1

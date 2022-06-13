@@ -1,0 +1,4 @@
+n=7
+edges=[(4, 5), (3, 5), (3, 4), (1, 4), (1, 6), (3, 7)]
+initial_components=[1, 2, 3, 4, 5, 6, 7]
+number_of_connected_components=2
